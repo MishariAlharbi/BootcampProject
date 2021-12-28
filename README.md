@@ -14,8 +14,11 @@ DASS: Depression Anxiety Stress Scales The DASS-42 is a 42 item self-report scal
 High scores on the DASS would certainly alert the clinician to a high level of distress in the patient and this would need to be explored further within the interview process.
 
 Each of the 42 questions is scored on a 4-point scale ranging from 0 (“Did not apply to me at all”) to 3 (“Applied to me very much, or most of the time”). Scores for Depression, Anxiety and Stress are calculated by summing the scores for the relevant items:
+
 Depression: 3, 5, 10, 13, 16, 17, 21, 24, 26, 31, 34, 37, 38, 42
+
 Anxiety: 2, 4, 7, 9, 15, 19, 20, 23, 25, 28, 30, 36, 40, 41
+
 Stress: 1, 6, 8, 11, 12, 14, 18, 22, 27, 29, 32, 33, 35, 39
 
 # Demographics Defining
