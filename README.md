@@ -28,7 +28,8 @@ Generic Demographics Survey was also given to participants Example of questions 
 "How many years old are you?"
 
 # My Questions To The Dataset
-Is depress linked to a specific gender?
+
+What are the demographics of the people who have high DASS score?
 
 Does someone's race have to do with him for being depressed?
 
